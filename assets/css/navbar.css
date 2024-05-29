@@ -8,12 +8,17 @@ body {
   margin: 0;
 }
 
+nav {
+  text-align: center;
+  margin-inline: 2em;
+}
+
 .lightyellow {
   background-color: #fbf7e3;
 }
 .navcontainer {
   border-radius: 80px;
-  margin-right: 2em;
+
   padding-block: 1em;
   margin-top: 2em;
   width: 100%;
